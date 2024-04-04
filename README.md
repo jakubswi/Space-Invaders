@@ -41,5 +41,7 @@ Space Invaders is a classic arcade-style game implemented in Python using the Tu
 
 ## Credits
 
-This game was inspired by the classic arcade game Space Invaders. Implementation and enhancements were done by Jakub Świdłowski.
+This game was inspired by the classic arcade game Space Invaders.
+## License
 
+This project is licensed under the [MIT License](LICENSE).
